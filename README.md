@@ -9,10 +9,6 @@ Los ejercicios cubren temas clave como:
 
 º Ámbito de variables (local y global)
 
-º Funciones anónimas (lambda)
-
-º Uso de *args y **kwargs
-
 º Métodos y funciones integradas en Python
 
 Cada ejercicio está diseñado para fortalecer la comprensión de cómo definir y utilizar funciones en Python, permitiendo mejorar la organización del código y su reutilización de manera eficiente.
