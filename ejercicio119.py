@@ -13,3 +13,5 @@ def cantidad_vocales(palabra):
 for palabra in ["Cocacola", "Pepsi", "Banana"]:
     cantidad = cantidad_vocales(palabra)  
     print(f"{palabra} tiene: {cantidad} vocales")
+
+lista = [1,2,3,4,5]
